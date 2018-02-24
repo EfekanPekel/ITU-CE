@@ -2,6 +2,7 @@
 * @Author
 * Student Name: Mustafa Efekan PEKEL
 * Student ID : 150140050
+* E-mail: pekelm@itu.edu.tr
 * Date: 09/03/2016
 */
 
