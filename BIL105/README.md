@@ -1,2 +1,2 @@
-# BIL105 - Introduction To Scientific and Engineering Computation
+# BIL105 - Intr to Sci&Eng Comp (C)
 Course Contents
